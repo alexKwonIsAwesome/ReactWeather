@@ -3,3 +3,6 @@ node_modules/
 
 #temporary files
 *.swp
+
+#bundle.js
+bundle.js
